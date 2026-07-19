@@ -1,2 +1,56 @@
-# JawaBridge
-Run Windows EXE applications on Linux using Wine with a simple GUI.
+# 🌉 JawaBridge
+
+Run Windows applications on Linux easily using Wine.
+
+## ✨ Features
+
+✅ Simple GUI  
+✅ EXE architecture detection  
+✅ Desktop shortcut generator  
+✅ Wine integration  
+✅ AppImage support  
+✅ Debian package support
+
+
+## 📸 Screenshot
+
+(gambar aplikasi)
+
+
+## 🚀 Installation
+
+### AppImage
+
+Download:
+JawaBridge-x86_64.AppImage
+
+Run:
+
+chmod +x JawaBridge-x86_64.AppImage
+./JawaBridge-x86_64.AppImage
+
+
+### Debian
+
+sudo apt install ./JawaBridge.deb
+
+
+## Requirements
+
+- Linux
+- Wine
+
+
+## Roadmap
+
+- [x] EXE launcher
+- [x] Architecture detector
+- [ ] Auto Wine installer
+- [ ] Better UI
+- [ ] EXE icon extraction
+- [ ] Application library
+
+
+## License
+
+MIT License
