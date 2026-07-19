@@ -51,6 +51,12 @@ sudo apt install ./JawaBridge.deb
 - [ ] Application library
 
 
+
+# Developer 
+
+JawaBridge Teams 
+Name: Siswanto 
+
 ## License
 
 MIT License
