@@ -14,7 +14,7 @@ Run Windows applications on Linux easily using Wine.
 
 ## 📸 Screenshot
 
-(gambar aplikasi)
+![JawaBridge](assets/screenshots/IMG_20260719_134926_109.jpg)
 
 
 ## 🚀 Installation
