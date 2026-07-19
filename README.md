@@ -40,6 +40,14 @@ sudo apt install ./JawaBridge.deb
 - Linux
 - Wine
 
+## 🛠 Troubleshooting
+
+Mengalami masalah saat menggunakan JawaBridge?
+
+Baca panduan troubleshooting:
+
+[📖 Troubleshooting Guide](docs/TROUBLESHOOTING.md)
+
 
 ## Roadmap
 
