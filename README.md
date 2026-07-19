@@ -58,6 +58,20 @@ Baca panduan troubleshooting:
 - [ ] EXE icon extraction
 - [ ] Application library
 
+## 📥 Download
+
+Download versi terbaru JawaBridge melalui GitHub Release:
+
+[⬇️ Download JawaBridge Latest Release](../../releases/latest)
+
+Tersedia:
+
+- 🐧 AppImage (All Linux Distribution)
+- 📦 DEB Package (Debian / Ubuntu / Linux Mint)
+
+---
+
+## Installation
 
 
 # Developer 
